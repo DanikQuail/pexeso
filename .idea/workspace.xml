@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc83b52-8afb-4ef9-99e9-f5643ac56c27" name="Default Changelist" comment="" />
+    <list default="true" id="bdc83b52-8afb-4ef9-99e9-f5643ac56c27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pexeso_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pexeso_script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -58,6 +62,8 @@
       <updated>1618649449557</updated>
       <workItem from="1618649451366" duration="4000" />
       <workItem from="1618655192388" duration="2465000" />
+      <workItem from="1618673832273" duration="1105000" />
+      <workItem from="1618765055119" duration="67000" />
     </task>
     <servers />
   </component>
@@ -81,5 +87,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1480" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618649454088" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1618674127533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618674127533" />
   </component>
 </project>

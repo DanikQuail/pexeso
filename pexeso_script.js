@@ -12,7 +12,6 @@ let pole_zdvojnasobeni = function (pexesoKarty) {
     for (let i = 0; i < pexesoKarty2; i++) {
         pexesoKarty.push(pexesoKarty[i])
     }
-    return pexesoKarty;
 }
 
 let pole_nahodneRozhazeni = function (pexesoKarty2) {
@@ -25,7 +24,6 @@ let pole_nahodneRozhazeni = function (pexesoKarty2) {
 
         pexesoKarty[nahodnyShuffle] = prohazenyKarty;
     }
-    return pexesoKarty2;
 }
 
 let karticky = function () {
