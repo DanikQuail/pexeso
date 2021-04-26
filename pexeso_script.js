@@ -31,6 +31,16 @@ let karticky = function () {
         let vyzobrazeniKarty = document.createElement('div')
         vyzobrazeniKarty.innerText = pexesoKarty[i]
 
+
+        vyzobrazeniKarty.classList.add('nevidim')
+
+        vyzobrazeniKarty.addEventListener('click', function () {
+             {
+                vyzobrazeniKarty.classList.toggle('vidim')
+                vyzobrazeniKarty.classList.toggle('nevidim')
+
+            }
+        })
         pexeso_deska.appendChild(vyzobrazeniKarty)
     }
 }

@@ -1,24 +1,38 @@
+
 body{
  font-family: "Roboto Medium", sans-serif;
     background-color: #111111;
     color: white;
 }
-h1{
-    text-align: center;
-    font-size: 72px;
 
+h1{
+    font-size: 72px;
+    text-align: center;
+}
+.nevidim{
+    color: rgba(0,0,0,0);
+}
+.vidim{
+    color: rgba(0,0,0,1);
 }
 .container {
     display: flex;
     justify-content: center;
     margin-left: 80px;
     margin-top: 100px;
+    perspective: 600px;
 }
 
 .boardPexeso {
     max-width: 620px;
     display: flex;
     flex-wrap: wrap;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
 }
 
 .boardPexeso div {
@@ -30,3 +44,12 @@ h1{
     height: 100px;
     margin: 10px;
 }
+
+
+
+
+
+
+
+
+
