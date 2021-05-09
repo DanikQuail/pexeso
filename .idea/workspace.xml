@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bdc83b52-8afb-4ef9-99e9-f5643ac56c27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pexeso_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pexeso_script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylar.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylar.css" afterDir="false" />
     </list>
@@ -49,10 +48,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tonda/Pexeso" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +70,10 @@
       <workItem from="1618770672050" duration="182000" />
       <workItem from="1619419211100" duration="5666000" />
       <workItem from="1619448498504" duration="7261000" />
-      <workItem from="1619466372721" duration="1479000" />
+      <workItem from="1619466372721" duration="2067000" />
+      <workItem from="1619779246544" duration="166000" />
+      <workItem from="1620573054673" duration="1246000" />
+      <workItem from="1620593571635" duration="5341000" />
     </task>
     <servers />
   </component>
@@ -94,10 +97,18 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1480" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618649454088" />
-    <state x="-1396" y="170" key="FileChooserDialogImpl" timestamp="1619452571009">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1619779415412">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1396" y="170" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619452571009" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1618770691254" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1619779415412" />
+    <state x="437" y="120" key="SettingsEditor" timestamp="1620594296785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="120" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620594296785" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620595481004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1620595481004" />
   </component>
 </project>
