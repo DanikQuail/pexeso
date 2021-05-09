@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bdc83b52-8afb-4ef9-99e9-f5643ac56c27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pexeso_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pexeso_script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylar.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylar.css" afterDir="false" />
     </list>
@@ -73,7 +74,7 @@
       <workItem from="1619466372721" duration="2067000" />
       <workItem from="1619779246544" duration="166000" />
       <workItem from="1620573054673" duration="1246000" />
-      <workItem from="1620593571635" duration="5341000" />
+      <workItem from="1620593571635" duration="6595000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,7 @@ let pocet = 0;
 let prvniDil;
 let druhejDil;
 let pouzeDvakrat;
+let deletethis;
 let pocetZbyvajicich;
 
 let nactise = function () {
@@ -12,6 +13,8 @@ let nactise = function () {
     pocetZbyvajicich = pexesoKarty.length;
     pole_nahodneRozhazeni();
     karticky();
+    resetovat = document.getElementById('resetButton');
+    resetovat.addEventListener('click', restart);
 }
 
 let vyhralSi = function () {
@@ -92,6 +95,15 @@ let otoceniKaret = function (e) {
     if (pocetZbyvajicich === 0) {
         vyhralSi();
     }
+}
+let restart = function () {
+    for (let i = 0; i < pexesoKarty2.length; i++) {
+        deletethis = document.getElementById(`id${i + 1}`);
+        deletethis.remove();
+    }
+    pocet = 0;
+    pouzeDvakrat = false;
+    nactise();
 }
 
 
